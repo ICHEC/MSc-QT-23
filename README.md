@@ -17,12 +17,21 @@ The course material will be hosted on GitHub and includes a folder for each sess
 
 
 ## Contents
-1. Fundamentals – [[Folder]](PyQM_Session_1/  )
-2. Flow Control and I/O - [[Folder]](PyQM_Session_2/  )
-3. Functions and Classes - [[Folder]](PyQM_Session_3/  )
-4. Numpy - [[Folder]](PyQM_Session_4/  )
-5. Matplotlib - [[Folder]](PyQM_Session_5/  )
-6. Scipy - [[Folder]](PyQM_Session_6/  )
+1. Fundamentals – [Week 1](pyqm-week1/)
+2. Flow Control and I/O - [Week 2](pyqm-week2/)
+3. Functions and Classes - [Week 3](pyqm-week3/)
+4. Numpy - [Week 4](pyqm-week4/)
+5. Matplotlib - [Week 5](pyqm-week5/)
+6. Scipy - [Week 6](pyqm-week6/)
+
+|No.|Topic                 |Folder                |
+|-- |--                    |--                    |
+|1. |Fundamentals          | [Week 1](pyqm-week1/)|
+|2. |Flow Control and I/O  | [Week 2](pyqm-week2/)|
+|3. |Functions and Classes | [Week 3](pyqm-week3/)|
+|4. |Numpy                 | [Week 4](pyqm-week4/)|
+|5. |Matplotlib            | [Week 5](pyqm-week5/)|
+|6. |Scipy                 | [Week 6](pyqm-week6/)|
 
 
 ## Contact
