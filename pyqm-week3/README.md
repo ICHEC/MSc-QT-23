@@ -1,6 +1,6 @@
 # Week 3 Contents
 
-## 3.1 - Functions - [[Notebook]](Session_3_Notebooks/PyQM_3.1_Function.ipynb) - [[Video]](https://www.youtube.com/watch?v=h-TmiynfpCs)
+## 3.1 - Functions - [[Notebook]](./notebooks/pyqm-3.1-function.ipynb) - [[Video]](https://www.youtube.com/watch?v=h-TmiynfpCs)
 
 - Functions Returning a Value
 - Functions Returning Multiple Values
@@ -9,7 +9,7 @@
 - Keyword Arguments, *args, and **kwargs
 - Map, Filter, and Lambda Functions
 
-## 3.2 - Classes - [[Notebook]](Session_3_Notebooks/PyQM_3.2_Classes.ipynb) - [[Video]](https://www.youtube.com/watch?v=Jx7woTztGyA)
+## 3.2 - Classes - [[Notebook]](./notebooks/pyqm-3.2-classes.ipynb) - [[Video]](https://www.youtube.com/watch?v=Jx7woTztGyA)
 
 - Attributes
 - Methods
